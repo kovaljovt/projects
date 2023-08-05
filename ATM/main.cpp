@@ -1,6 +1,7 @@
 #include "ATM.h"
+
 #include <iostream>
-#include <limits> // for input validation
+#include <limits>
 
 int main() {
 	ATM atm(1000);

@@ -11,7 +11,9 @@ public:
 	explicit ATM(int bal);
 
 	void getBalance() const;
+
 	bool withdraw(int bal);
+
 	void deposit(int bal);
 };
 

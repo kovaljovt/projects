@@ -1,6 +1,6 @@
 #include "ATM.h"
 
-ATM::ATM(int bal): balance(bal) {}
+ATM::ATM(int bal) : balance(bal) {}
 
 void ATM::getBalance() const {
 	std::cout << "Your balance is: " << balance << '\n';
