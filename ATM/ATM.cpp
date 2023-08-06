@@ -19,6 +19,3 @@ void ATM::deposit(int amount) {
 	balance += amount;
 	std::cout << "Your balance is: " << balance << '\n';
 }
-
-
-

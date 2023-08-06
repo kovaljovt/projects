@@ -6,11 +6,12 @@
 int main() {
 	ATM atm(1000);
 
+	std::cout << "ATM MACHINE SIMULATOR" << '\n';
+
 	int choice;
 	std::string option;
 
 	do {
-		std::cout << "ATM MACHINE SIMULATOR" << '\n';
 		std::cout << '\n';
 		std::cout << "1. View Balance" << '\n';
 		std::cout << "2. Cash Withdraw" << '\n';
