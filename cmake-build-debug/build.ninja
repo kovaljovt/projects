@@ -49,17 +49,17 @@ cmake_ninja_workdir = C$:/Users/Acer/Desktop/Projects/cmake-build-debug/
 
 build cmake_object_order_depends_target_ATM: phony || CMakeFiles/ATM.dir
 
-build CMakeFiles/ATM.dir/ATM/main.cpp.obj: CXX_COMPILER__ATM_unscanned_Debug C$:/Users/Acer/Desktop/Projects/ATM/main.cpp || cmake_object_order_depends_target_ATM
-  DEP_FILE = CMakeFiles\ATM.dir\ATM\main.cpp.obj.d
+build CMakeFiles/ATM.dir/Basic/ATM/main.cpp.obj: CXX_COMPILER__ATM_unscanned_Debug C$:/Users/Acer/Desktop/Projects/Basic/ATM/main.cpp || cmake_object_order_depends_target_ATM
+  DEP_FILE = CMakeFiles\ATM.dir\Basic\ATM\main.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ATM.dir
-  OBJECT_FILE_DIR = CMakeFiles\ATM.dir\ATM
+  OBJECT_FILE_DIR = CMakeFiles\ATM.dir\Basic\ATM
 
-build CMakeFiles/ATM.dir/ATM/ATM.cpp.obj: CXX_COMPILER__ATM_unscanned_Debug C$:/Users/Acer/Desktop/Projects/ATM/ATM.cpp || cmake_object_order_depends_target_ATM
-  DEP_FILE = CMakeFiles\ATM.dir\ATM\ATM.cpp.obj.d
+build CMakeFiles/ATM.dir/Basic/ATM/ATM.cpp.obj: CXX_COMPILER__ATM_unscanned_Debug C$:/Users/Acer/Desktop/Projects/Basic/ATM/ATM.cpp || cmake_object_order_depends_target_ATM
+  DEP_FILE = CMakeFiles\ATM.dir\Basic\ATM\ATM.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ATM.dir
-  OBJECT_FILE_DIR = CMakeFiles\ATM.dir\ATM
+  OBJECT_FILE_DIR = CMakeFiles\ATM.dir\Basic\ATM
 
 
 # =============================================================================
@@ -69,7 +69,7 @@ build CMakeFiles/ATM.dir/ATM/ATM.cpp.obj: CXX_COMPILER__ATM_unscanned_Debug C$:/
 #############################################
 # Link the executable ATM.exe
 
-build ATM.exe: CXX_EXECUTABLE_LINKER__ATM_Debug CMakeFiles/ATM.dir/ATM/main.cpp.obj CMakeFiles/ATM.dir/ATM/ATM.cpp.obj
+build ATM.exe: CXX_EXECUTABLE_LINKER__ATM_Debug CMakeFiles/ATM.dir/Basic/ATM/main.cpp.obj CMakeFiles/ATM.dir/Basic/ATM/ATM.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\ATM.dir
@@ -88,23 +88,23 @@ build ATM.exe: CXX_EXECUTABLE_LINKER__ATM_Debug CMakeFiles/ATM.dir/ATM/main.cpp.
 
 build cmake_object_order_depends_target_Login: phony || CMakeFiles/Login.dir
 
-build CMakeFiles/Login.dir/Login/main.cpp.obj: CXX_COMPILER__Login_unscanned_Debug C$:/Users/Acer/Desktop/Projects/Login/main.cpp || cmake_object_order_depends_target_Login
-  DEP_FILE = CMakeFiles\Login.dir\Login\main.cpp.obj.d
+build CMakeFiles/Login.dir/Basic/Login/main.cpp.obj: CXX_COMPILER__Login_unscanned_Debug C$:/Users/Acer/Desktop/Projects/Basic/Login/main.cpp || cmake_object_order_depends_target_Login
+  DEP_FILE = CMakeFiles\Login.dir\Basic\Login\main.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Login.dir
-  OBJECT_FILE_DIR = CMakeFiles\Login.dir\Login
+  OBJECT_FILE_DIR = CMakeFiles\Login.dir\Basic\Login
 
-build CMakeFiles/Login.dir/Login/User.cpp.obj: CXX_COMPILER__Login_unscanned_Debug C$:/Users/Acer/Desktop/Projects/Login/User.cpp || cmake_object_order_depends_target_Login
-  DEP_FILE = CMakeFiles\Login.dir\Login\User.cpp.obj.d
+build CMakeFiles/Login.dir/Basic/Login/User.cpp.obj: CXX_COMPILER__Login_unscanned_Debug C$:/Users/Acer/Desktop/Projects/Basic/Login/User.cpp || cmake_object_order_depends_target_Login
+  DEP_FILE = CMakeFiles\Login.dir\Basic\Login\User.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Login.dir
-  OBJECT_FILE_DIR = CMakeFiles\Login.dir\Login
+  OBJECT_FILE_DIR = CMakeFiles\Login.dir\Basic\Login
 
-build CMakeFiles/Login.dir/Login/UserManagement.cpp.obj: CXX_COMPILER__Login_unscanned_Debug C$:/Users/Acer/Desktop/Projects/Login/UserManagement.cpp || cmake_object_order_depends_target_Login
-  DEP_FILE = CMakeFiles\Login.dir\Login\UserManagement.cpp.obj.d
+build CMakeFiles/Login.dir/Basic/Login/UserManagement.cpp.obj: CXX_COMPILER__Login_unscanned_Debug C$:/Users/Acer/Desktop/Projects/Basic/Login/UserManagement.cpp || cmake_object_order_depends_target_Login
+  DEP_FILE = CMakeFiles\Login.dir\Basic\Login\UserManagement.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Login.dir
-  OBJECT_FILE_DIR = CMakeFiles\Login.dir\Login
+  OBJECT_FILE_DIR = CMakeFiles\Login.dir\Basic\Login
 
 
 # =============================================================================
@@ -114,7 +114,7 @@ build CMakeFiles/Login.dir/Login/UserManagement.cpp.obj: CXX_COMPILER__Login_uns
 #############################################
 # Link the executable Login.exe
 
-build Login.exe: CXX_EXECUTABLE_LINKER__Login_Debug CMakeFiles/Login.dir/Login/main.cpp.obj CMakeFiles/Login.dir/Login/User.cpp.obj CMakeFiles/Login.dir/Login/UserManagement.cpp.obj
+build Login.exe: CXX_EXECUTABLE_LINKER__Login_Debug CMakeFiles/Login.dir/Basic/Login/main.cpp.obj CMakeFiles/Login.dir/Basic/Login/User.cpp.obj CMakeFiles/Login.dir/Basic/Login/UserManagement.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Login.dir
