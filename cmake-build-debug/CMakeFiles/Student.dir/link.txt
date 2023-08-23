@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Student.dir/Basic/Student/main.cpp.o CMakeFiles/Student.dir/Basic/Student/Student.cpp.o CMakeFiles/Student.dir/Basic/Student/StudentManagement.cpp.o -o Student 

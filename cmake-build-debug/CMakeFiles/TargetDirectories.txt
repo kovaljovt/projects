@@ -1,5 +1,5 @@
-C:/Users/Acer/Desktop/Projects/cmake-build-debug/CMakeFiles/ATM.dir
-C:/Users/Acer/Desktop/Projects/cmake-build-debug/CMakeFiles/Login.dir
-C:/Users/Acer/Desktop/Projects/cmake-build-debug/CMakeFiles/Student.dir
-C:/Users/Acer/Desktop/Projects/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Acer/Desktop/Projects/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/tibor/Desktop/projects/cmake-build-debug/CMakeFiles/ATM.dir
+/home/tibor/Desktop/projects/cmake-build-debug/CMakeFiles/Login.dir
+/home/tibor/Desktop/projects/cmake-build-debug/CMakeFiles/Student.dir
+/home/tibor/Desktop/projects/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/tibor/Desktop/projects/cmake-build-debug/CMakeFiles/rebuild_cache.dir

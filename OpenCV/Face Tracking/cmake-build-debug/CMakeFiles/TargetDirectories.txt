@@ -1,0 +1,3 @@
+/home/tibor/Desktop/projects/OpenCV/Face Tracking/cmake-build-debug/CMakeFiles/face-tracking.dir
+/home/tibor/Desktop/projects/OpenCV/Face Tracking/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/tibor/Desktop/projects/OpenCV/Face Tracking/cmake-build-debug/CMakeFiles/rebuild_cache.dir

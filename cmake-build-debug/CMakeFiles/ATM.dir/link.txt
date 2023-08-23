@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/ATM.dir/Basic/ATM/main.cpp.o CMakeFiles/ATM.dir/Basic/ATM/ATM.cpp.o -o ATM 
