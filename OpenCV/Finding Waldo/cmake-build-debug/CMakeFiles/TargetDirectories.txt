@@ -1,3 +1,0 @@
-/home/tibor/Desktop/projects/OpenCV/Finding Waldo/cmake-build-debug/CMakeFiles/finding-waldo.dir
-/home/tibor/Desktop/projects/OpenCV/Finding Waldo/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/tibor/Desktop/projects/OpenCV/Finding Waldo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
